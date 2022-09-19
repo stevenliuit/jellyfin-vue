@@ -21,6 +21,7 @@ WORKDIR /app
 # Copy files to workdir
 COPY . .
 
+RUN npm config set registry http://registry.npm.taobao.org/
 # Install dependencies
 RUN npm ci --no-audit
 
