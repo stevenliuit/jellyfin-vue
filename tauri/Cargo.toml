@@ -3,10 +3,10 @@ name = "jellyfin-vue-tauri"
 version = "0.0.0"
 description = "Jellyfin Tauri client"
 authors = [
-  "jellyfin-vue Contributors (https://github.com/jellyfin/jellyfin-vue/graphs/contributors)"
+  "jellyfin-vue Contributors (https://github.com/stevenliuit/jellyfin-vue/graphs/contributors)"
 ]
 license = "GPL-3.0-only"
-repository = "https://github.com/jellyfin/jellyfin-vue"
+repository = "https://github.com/stevenliuit/jellyfin-vue"
 default-run = "jellyfin-vue-tauri"
 build = "src/build.rs"
 edition = "2021"

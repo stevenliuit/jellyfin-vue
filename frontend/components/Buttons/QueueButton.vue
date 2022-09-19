@@ -130,7 +130,7 @@ export default Vue.extend({
       get(): string {
         /**
          * TODO: Properly refactor this once search and other missing features are implemented, as discussed in
-         * https://github.com/jellyfin/jellyfin-vue/pull/609
+         * https://github.com/stevenliuit/jellyfin-vue/pull/609
          */
         switch (this.playbackManager.playbackInitMode) {
           case InitMode.Unknown:

@@ -10,14 +10,14 @@
 <a href="https://hub.docker.com/r/jellyfin/jellyfin-vue">
 <img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/jellyfin/jellyfin-vue">
 </a>
-<a href="https://github.com/jellyfin/jellyfin-vue/pkgs/container/jellyfin-vue">
+<a href="https://github.com/stevenliuit/jellyfin-vue/pkgs/container/jellyfin-vue">
 <img alt="GHCR images" src="https://img.shields.io/badge/Github-packages-blue">
 </a>
 <br/>
-<a href="https://github.com/jellyfin/jellyfin-vue">
+<a href="https://github.com/stevenliuit/jellyfin-vue">
 <img alt="GPL 3.0 License" src="https://img.shields.io/github/license/jellyfin/jellyfin-vue.svg"/>
 </a>
-<a href="https://github.com/jellyfin/jellyfin-vue/releases">
+<a href="https://github.com/stevenliuit/jellyfin-vue/releases">
 <img alt="Current Release" src="https://img.shields.io/github/release/jellyfin/jellyfin-vue.svg"/>
 </a>
 <a href="https://commitizen.github.io/cz-cli/">
@@ -60,7 +60,7 @@ This is an experimental web client for Jellyfin based on Vue.js. We welcome all 
 1. Clone or download this repository.
 
    ```bash
-   git clone https://github.com/jellyfin/jellyfin-vue.git
+   git clone https://github.com/stevenliuit/jellyfin-vue.git
    cd jellyfin-vue
    ```
 
@@ -108,4 +108,4 @@ The project also contains recommended extensions for [Visual Studio Code](https:
 
 Finally, we try to follow the [ConventionalCommits Guidelines](https://www.conventionalcommits.org/en/v1.0.0/#summary) when writing commit messages.
 
-For more information about how to contribute to this project, see [CONTRIBUTING.md](https://github.com/jellyfin/jellyfin-vue/blob/master/CONTRIBUTING.md)
+For more information about how to contribute to this project, see [CONTRIBUTING.md](https://github.com/stevenliuit/jellyfin-vue/blob/master/CONTRIBUTING.md)

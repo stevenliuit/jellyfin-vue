@@ -37,5 +37,5 @@ EXPOSE 80
 
 # Set labels
 LABEL maintainer="Jellyfin Packaging Team - packaging@jellyfin.org"
-LABEL org.opencontainers.image.source="https://github.com/jellyfin/jellyfin-vue"
+LABEL org.opencontainers.image.source="https://github.com/stevenliuit/jellyfin-vue"
 LABEL org.opencontainers.image.description="Commit: ${COMMIT_HASH} History router rode: ${HISTORY_ROUTER_MODE}"

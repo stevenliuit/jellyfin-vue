@@ -305,7 +305,7 @@ export default Vue.extend({
         /**
          * Sanitization of route params to avoid XSS injection attacks.
          *
-         * First reported on https://github.com/jellyfin/jellyfin-vue/security/code-scanning/223
+         * First reported on https://github.com/stevenliuit/jellyfin-vue/security/code-scanning/223
          */
         const response = (
           await this.$api.filter.getQueryFiltersLegacy({

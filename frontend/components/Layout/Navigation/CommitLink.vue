@@ -1,7 +1,7 @@
 <template>
   <v-list-item
     v-if="commit"
-    :href="'https://github.com/jellyfin/jellyfin-vue/commit/' + commit"
+    :href="'https://github.com/stevenliuit/jellyfin-vue/commit/' + commit"
     target="_blank"
     rel="noopener noreferrer"
   >

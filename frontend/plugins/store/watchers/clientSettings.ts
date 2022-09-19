@@ -20,7 +20,7 @@ export default function (ctx: Context): void {
       ctx.i18n.setLocale(state.locale);
     } else {
       ctx.i18n.setLocale(
-        ctx.i18n.getBrowserLocale() || ctx.i18n.defaultLocale || 'en-US'
+        ctx.i18n.getBrowserLocale() || ctx.i18n.defaultLocale || 'zh-CN'
       );
     }
   });

@@ -49,12 +49,12 @@ import { authStore } from '~/store';
 export default Vue.extend({
   data() {
     return {
-      serverUrl: '',
-      loading: false,
+      serverUrl: 'http://www.thisding.cn:8696',
+      loading: true,
       rules: {
         serverUrl: {
-          required: true,
-          mustBeUrl: true
+          required: false,
+          mustBeUrl: false
         }
       },
       previousServerLength: 0

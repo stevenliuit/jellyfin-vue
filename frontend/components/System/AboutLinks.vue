@@ -47,7 +47,7 @@ export default Vue.extend({
         {
           icon: 'mdi-bug',
           name: this.$t('links.reportAnIssue'),
-          link: 'https://github.com/jellyfin/jellyfin-vue/issues/new'
+          link: 'https://github.com/stevenliuit/jellyfin-vue/issues/new'
         }
       ]
     };

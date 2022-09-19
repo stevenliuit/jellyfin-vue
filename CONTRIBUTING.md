@@ -13,13 +13,13 @@ This document will walk you through the various ways you can contribute to this 
 There are several ways to contribute to Jellyfin Vue, in addition to writing code.
 
 - We are always looking for talented UI/UX designers to help us make Jellyfin look good, and to help improve user experience.  
-  If you are interested in discussing this with us, the ["UI & UX" category in the Discussions tab](https://github.com/jellyfin/jellyfin-vue/discussions?discussions_q=category%3A%22UI+%26+UX%22) is a great place to start.
+  If you are interested in discussing this with us, the ["UI & UX" category in the Discussions tab](https://github.com/stevenliuit/jellyfin-vue/discussions?discussions_q=category%3A%22UI+%26+UX%22) is a great place to start.
 - We have a [translation platform](https://translate.jellyfin.org/projects/jellyfin-vue/jellyfin-vue/#translations), if you want to help us provide a localized version of Jellyfin in as many languages as possible.
-- You can [report bugs](https://github.com/jellyfin/jellyfin-vue/issues/) to help us fix issues with the client.
+- You can [report bugs](https://github.com/stevenliuit/jellyfin-vue/issues/) to help us fix issues with the client.
 
 ## Pull request process
 
-Before making a pull request for a new feature, please open a discussion in the ["Features" category of the discussions tab](https://github.com/jellyfin/jellyfin-vue/discussions?discussions_q=category%3AFeatures).
+Before making a pull request for a new feature, please open a discussion in the ["Features" category of the discussions tab](https://github.com/stevenliuit/jellyfin-vue/discussions?discussions_q=category%3AFeatures).
 
 Pull requests require reviews from members of the Jellyfin Web team before being merged. Please ensure that you respect code and commit message styles. Pre-commit hooks and Commitizen support are provided to help you.
 
